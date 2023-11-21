@@ -1,0 +1,18 @@
+Sass (syntatically Awesome Stylesheets), CSS için bir metalanguage ve CSS yazılımını daha etkili vedüzenli hale getirmek amacıyla oluşturulmuş bir Css ön işlemci dilidir.
+Sass, CSS'in genişletilmiş bir sürümüdür ve daha fazla özellik, esneklik ve modülerlik sunar.
+
+Sass'ın temel özellikleri şunlardır:
+1-Değişkenler: Değişlemler, renkler, fontlar, uzunluklar gibi değerleri depolamak için kullanılır.
+Bu, aynı değeri birden çok kez kullanmanın yanı sıra, değerleri daha kolay değiştirmenizi sağlar.
+
+2-Yerine koyma(Interpolation): deşikkenleri ve ifadeleri yazınız içinde kullanabilirsiniz.
+
+3-Nesne yerleşimi(nesting): HTML öğeleri içindeki CSS kurallarını düzenlemek iç içe geçmiş yapısı vardır.
+
+4-Mixins: Stil kurallarını gruplamak ve tekrar kullanmak için kullanılır.
+
+5-Fonksiyonlar ve işlemler: Sass, matematiksel işlemler ve özel fonksiyonlar kullanmanıza olanak tanır.
+
+Sass, CSS yazımını daha dokunabilir, sürdüreblir ve geliştirilebilir hale gerirerek,
+stil sayfalarının yönetimini kolaylaştırır. Sass dosyalarınızı derlemek için, genellikle Sass 
+derleyicileri veya build araçları kullanılır.
